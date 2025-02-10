@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿string myPassword = "ieeiEji3i03204444XXXXEWFIWEKTWETJWEKWLQELQLQR";
+
+// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Password: my_password");
+Console.WriteLine("Password: " + myPassword);
