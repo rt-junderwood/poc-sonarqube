@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("poc.sonarqube.console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0833db96fe48f37b9a933094f865b8bae0dc1039")]
 [assembly: System.Reflection.AssemblyProductAttribute("poc.sonarqube.console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("poc.sonarqube.console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

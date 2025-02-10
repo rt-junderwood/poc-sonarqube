@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\junderwood\\source\\repos\\rt-junderwood\\poc-sonarqube\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5848-56C1-4776-A479-CDC0699484AF}|poc.sonarqube.console\\poc.sonarqube.console.csproj|c:\\users\\junderwood\\source\\repos\\rt-junderwood\\poc-sonarqube\\poc.sonarqube.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5848-56C1-4776-A479-CDC0699484AF}|poc.sonarqube.console\\poc.sonarqube.console.csproj|solutionrelative:poc.sonarqube.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 57,
           "Children": [
             {
               "$type": "Bookmark",
@@ -238,6 +243,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\junderwood\\source\\repos\\rt-junderwood\\poc-sonarqube\\poc.sonarqube.console\\Program.cs",
+              "RelativeDocumentMoniker": "poc.sonarqube.console\\Program.cs",
+              "ToolTip": "C:\\Users\\junderwood\\source\\repos\\rt-junderwood\\poc-sonarqube\\poc.sonarqube.console\\Program.cs",
+              "RelativeToolTip": "poc.sonarqube.console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:02:22.62Z",
+              "EditorCaption": ""
             }
           ]
         }
