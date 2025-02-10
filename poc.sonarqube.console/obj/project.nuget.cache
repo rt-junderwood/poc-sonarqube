@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3FvwvmL2KqM=",
+  "dgSpecHash": "XCfIhXbJhTg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\junderwood\\Source\\Repos\\rt-junderwood\\poc-sonarqube\\poc.sonarqube.console\\poc.sonarqube.console.csproj",
+  "projectFilePath": "C:\\Users\\junderwood\\source\\repos\\rt-junderwood\\poc-sonarqube\\poc.sonarqube.console\\poc.sonarqube.console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\poc.sonarqube.console\\bin",
+    "\\poc.sonarqube.console\\obj"
   ],
+  "SelectedNode": "\\poc.sonarqube.console",
   "PreviewInSolutionExplorer": false
 }
