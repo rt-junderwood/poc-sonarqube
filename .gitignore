@@ -4,3 +4,4 @@
 
 /.vs/poc-sonarqube/FileContentIndex
 /.vs/slnx.sqlite
+/poc.sonarqube.console/bin/Debug/net8.0
